@@ -1,4 +1,4 @@
-<h4> Hi, I’m Angie Garcia-Paz 👋🏽 </h4><br>
+<h4> Hi, I’m Angie Langfoss-Garcia 👋🏽 </h4><br>
 I’m interested in front-end development and graphic design.<br>
 Currently, I'm learning Typescript and Nodejs. <br>
 <br>
